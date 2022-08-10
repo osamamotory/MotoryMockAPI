@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "name": "osama"
+    },
+    {
+      "id": "2",
+      "name": "bader"
+    },
+    {
+      "id": "3",
+      "name": "ali"
+    }
+  ],
   "posts": [
     {
       "id": 1,
